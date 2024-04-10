@@ -9,7 +9,11 @@
             "email": "xming076@163.com"
         }
     ],
-    "main": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/minux-next/parse-srt-types.git",
+        "directory": "."
+    },    "main": "",
     "types": "index.d.ts",
     "scripts": {},
     "dependencies": {},
